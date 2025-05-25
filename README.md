@@ -37,6 +37,6 @@ This portfolio contains selected materials related to my participation in the AW
 ---
 
 ### **CV Access**
-[Download My ATS-Friendly CV (PDF)](https://github.com/halkindi31/aws-cloud-portfolio/raw/main/Hassena_CV_2025.pdf)
+[[Download My ATS-Friendly CV (PDF)]](https://acrobat.adobe.com/id/urn:aaid:sc:AP:b2966c8d-2c6c-4ac9-9ebf-cee73897fb0a)(https://github.com/halkindi31/aws-cloud-portfolio/raw/main/Hassena_CV_2025.pdf)
 ## Connect with Me  
 [Visit My LinkedIn Profile](https://www.linkedin.com/in/hassenakhalfanalkindi)
