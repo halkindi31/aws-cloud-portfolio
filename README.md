@@ -12,3 +12,23 @@ This repository is part of my learning journey. It will host any future AWS-rela
 - GitHub Collaboration
 - ATS-optimized CVs
 - Portfolio building
+# AWS Cloud Portfolio – Hassena Khalfan Alkindi
+
+Welcome to my AWS Cloud Computing course portfolio.  
+This repository is part of the Manara Teach training program.  
+
+## About Me
+A versatile professional with a background in HR, administration, and sales. Passionate about digital innovation and continuous learning.
+
+## Skills
+- Human Resources Management  
+- Data Entry & Reporting  
+- Administrative Support  
+- Customer Service & Sales  
+- GitHub & Cloud Fundamentals  
+
+## Project Purpose
+This repository is created to showcase my learning journey in AWS Cloud Computing and to complete the assignment for the course.
+
+## CV
+[Click here to view my CV](link if you uploaded it as PDF in the repo)
